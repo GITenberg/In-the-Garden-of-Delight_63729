@@ -1,0 +1,26 @@
+_repo: In-the-Garden-of-Delight_63729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hammond, Lily Hardy
+    alias: Hammond, L. H. (Lily Hardy)
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '52569'
+    url: http://www.gutenberg.org/2009/agents/52569
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: In the Garden of Delight
+url: http://www.gutenberg.org/ebooks/63729
